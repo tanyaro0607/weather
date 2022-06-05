@@ -1,2 +1,4 @@
 # weather
-use npm install
+use:
+npm install
+npm run start
